@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NUM",
+				"REP_NUM"
+			],
+			[
+				"s",
+				"sumList"
+			],
+			[
+				"apply",
+				"applyToList"
+			],
+			[
+				"app",
+				"applyToList"
+			],
+			[
+				"so",
+				"sortList"
+			],
+			[
+				"S",
+				"Smybol"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Erica/Downloads/classnotes.html",
+		"/Users/Erica/Downloads/Untitled Diagram (1).xml",
+		"/Users/Erica/Downloads/sun-web.xml",
+		"/Users/Erica/Downloads/index.xhtml",
+		"/Users/Erica/Downloads/lab4Code/index.xhtml",
+		"/Users/Erica/Downloads/Untitled Diagram.xml",
+		"/Users/Erica/Downloads/UpdateAccountClass (1).xml",
+		"/Users/Erica/Downloads/UpdateAccountClass.xml",
+		"/Users/Erica/Downloads/lab3Code/DBHelper.java",
+		"/Users/Erica/Downloads/lab2Code 2/CatalogItem.java",
+		"/Users/Erica/Downloads/lab3Code/index.xhtml",
+		"/private/var/folders/jm/3754n8991wg275hbrmf3rdwh0000gn/T/BookStoreAppV1 2/nbproject/ant-deploy.xml",
+		"/Users/Erica/Downloads/lab2Code 2/banner.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/orderPage.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/checkoutPage.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/catalogPage.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/index.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/admin.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/template.xhtml",
+		"/Users/Erica/Downloads/lab2Code 2/CatalogBean.java",
+		"/Users/Erica/Downloads/lab2Code 2/ShoppingCart.java",
+		"/Users/Erica/Downloads/lab2Code 2/ItemOrder.java",
+		"/Users/Erica/Downloads/lab2Code 2/Catalog.java",
+		"/Users/Erica/Downloads/lab2Code 2/messages_fr.properties",
+		"/Users/Erica/Downloads/lab2Code 2/faces-config.xml",
+		"/Users/Erica/Downloads/A4Soln_xxxxxxx/A4Q2.java",
+		"/Users/Erica/Documents/dataProject/aftertaste/index.php",
+		"/Users/Erica/Downloads/Lab10/src/CommSimple.java",
+		"/Users/Erica/Downloads/Lab10/lab10/src/CommByTCP_sender.java",
+		"/Users/Erica/Documents/Winter2015/SEG2106/Assignment3/Results.txt",
+		"/Users/Erica/Documents/Winter2015/SEG2106/Assignment3/Assignment3.txt",
+		"/Users/Erica/Documents/Winter2015/SEG2106/Assignment3/example.txt",
+		"/Users/Erica/Downloads/Erica Dalphy.sql",
+		"/Users/Erica/Documents/Winter2015/CSI2132/CSI2132-Assignment2_6883303.sql",
+		"/Users/Erica/Downloads/PostgreSQLCanSchema.sql",
+		"/Users/Erica/Documents/CSI2120-lab4_6883303.txt",
+		"/Users/Erica/Documents/CSI2120-Assignment1_6883303.pl",
+		"/Users/Erica/Documents/Winter2015/CSI2120/Assignment2_6883303",
+		"/Users/Erica/Documents/Winter2015/CSI2120/StudyNotes.pl",
+		"/Users/Erica/Documents/CSI2120-DGD3.txt",
+		"/Users/Erica/Documents/CSI2120-DGD2",
+		"/Users/Erica/Documents/CSI2120-lab3.pl",
+		"/Users/Erica/Documents/CSI2120_lab2_6883303.txt",
+		"/Users/Erica/Documents/CSI2129Lab1Part1.pl",
+		"/Users/Erica/Documents/CSI2120Lab1.pl",
+		"/Users/Erica/Desktop/CSI2120Lab1.pl",
+		"/Users/Erica/Desktop/hello.pl"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"(.*?)\"",
+			"class=[\\\".*?\\\"]",
+			"class=\"[*]\"",
+			"<div class=\"(A-Za-z)\"",
+			"<div class=\"[A-Za-z]\"",
+			"form",
+			"textarea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
